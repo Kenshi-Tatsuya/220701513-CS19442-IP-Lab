@@ -8,8 +8,9 @@ Welcome to my GitHub repository for my resume developed using CSS and HTML. Belo
 
 ## Preview
 
-![Alt text](Ex1/Output/Output1.png)
+![Alt text](./Output/Output1.png)
 
+![Alt text](./Output/Output2.png)
 
 ## Description
 
