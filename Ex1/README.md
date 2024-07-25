@@ -75,8 +75,5 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Contact
 
-If you have any questions or would like to get in touch, feel free to contact me at [your-email@gmail.com].
+If you have any questions or would like to get in touch, feel free to contact me at [jayaprashanth@gmail.com].
 
----
-
-Make sure to replace placeholders like `[Your Name]`, `https://github.com/your-github/your-resume-repo.git`, `path/to/screenshot.png`, and `[your-email@gmail.com]` with your actual information.
