@@ -8,7 +8,8 @@ Welcome to my GitHub repository for my resume developed using CSS and HTML. Belo
 
 ## Preview
 
-![Resume Screenshot](path/to/screenshot.png)
+![Resume Screenshot](Ex1/Output/Output1.png)
+![Resume Screenshot](Ex1/Output/Output2.png)
 
 ## Description
 
