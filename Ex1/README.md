@@ -1,6 +1,3 @@
-Got it! Here's a README format specifically for showcasing a resume developed using CSS and HTML on GitHub:
-
----
 
 # Prashanth's Resume
 
