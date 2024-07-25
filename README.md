@@ -2,7 +2,7 @@ Got it! Here's a README format specifically for showcasing a resume developed us
 
 ---
 
-# [Your Name]'s Resume
+# Prashanth's Resume
 
 Welcome to my GitHub repository for my resume developed using CSS and HTML. Below you will find the necessary information about the project and how to view it.
 
